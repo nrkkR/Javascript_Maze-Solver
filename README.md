@@ -36,7 +36,7 @@ Upon opening the application, you will be greeted with the main interface where 
 3. **Clear Maze**: Click the "Clear" button to reset the maze.
 
 ## Screenshots
-
+<img align="center" alt="coding" width="800" src="https://github.com/nrkkR/Javascript_Binary-Search-Tree-Visualizer/blob/main/bst%20main%20menu.png">
 
 ## Credits
 Created by [Rajdeep Mondal](https://www.linkedin.com/in/rajdeep-mondal-a277a9317)  
